@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ch01-hello-springmvc/ch01-hello-springmvc.iml" filepath="$PROJECT_DIR$/ch01-hello-springmvc/ch01-hello-springmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch02-RequestMapping/ch02-RequestMapping.iml" filepath="$PROJECT_DIR$/ch02-RequestMapping/ch02-RequestMapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch03-receiveparam/ch03-receiveparam.iml" filepath="$PROJECT_DIR$/ch03-receiveparam/ch03-receiveparam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch04-objectReceiveParam/ch04-objectReceiveParam.iml" filepath="$PROJECT_DIR$/ch04-objectReceiveParam/ch04-objectReceiveParam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch05-return/ch05-return.iml" filepath="$PROJECT_DIR$/ch05-return/ch05-return.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch06-url-pattern/ch06-url-pattern.iml" filepath="$PROJECT_DIR$/ch06-url-pattern/ch06-url-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch07-path/ch07-path.iml" filepath="$PROJECT_DIR$/ch07-path/ch07-path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch08-SSM/ch08-SSM.iml" filepath="$PROJECT_DIR$/ch08-SSM/ch08-SSM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch09-forward-redirect/ch09-forward-redirect.iml" filepath="$PROJECT_DIR$/ch09-forward-redirect/ch09-forward-redirect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch10-exception-handler/ch10-exception-handler.iml" filepath="$PROJECT_DIR$/ch10-exception-handler/ch10-exception-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch11-interceptor/ch11-interceptor.iml" filepath="$PROJECT_DIR$/ch11-interceptor/ch11-interceptor.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/ch01-hello-springmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch02-RequestMapping" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch03-receiveparam" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch04-objectReceiveParam" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05-return" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch06-url-pattern" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch07-path" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch08-SSM" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch09-forward-redirect" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch10-exception-handler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch11-interceptor" charset="UTF-8" />
+  </component>
+</project>
